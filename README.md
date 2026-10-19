@@ -1,5 +1,12 @@
 # Theryx Verilog
 
+> [!WARNING]
+> This is an alpha version, many IEEE 1364 are not supported, expect many bugs, you can open issues if you find any.
+> 
+> I plan to release the source code, but with a more mature version.
+>
+> This has a goal to be used as plain VS Code extension, you still need all your EDA tools, the objective is just improve productivity in the design of RTL.
+
 > Visual Studio Code Extension — 1-to-1 RTL Structural Viewer, STARC/RMM Linter, and Verilog (IEEE 1364) Language Intelligence
 
 ---
