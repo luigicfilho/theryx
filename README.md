@@ -1,7 +1,7 @@
 # Theryx Verilog
 
 > [!WARNING]
-> This is an alpha version, many IEEE 1364 are not supported, expect many bugs, you can open issues if you find any.
+> This is an alpha version, many constructs from IEEE 1364 are not supported, expect many bugs, you can open issues if you find any.
 > 
 > I plan to release the source code, but with a more mature version.
 >
