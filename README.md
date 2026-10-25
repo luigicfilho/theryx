@@ -212,14 +212,14 @@ To install the distributed `.vsix` package:
 2. Navigate to the **Extensions** view (`Ctrl + Shift + X`).
 3. Click the **Views and More Actions** (`...`) menu at the top right of the Extensions panel.
 4. Select **Install from VSIX...**.
-5. Select the `theryx-verilog-0.1.1-alpha.vsix` package file.
+5. Select the `theryx-verilog-0.1.2-alpha.vsix` package file.
 6. Reload the window if prompted (`Ctrl + Shift + P` -> `Developer: Reload Window`).
 
 ### Method 2: Using the Command Line
 Run the following command in your terminal:
 
 ```powershell
-code --install-extension theryx-verilog-0.1.1-alpha.vsix --force
+code --install-extension theryx-verilog-0.1.2-alpha.vsix --force
 ```
 
 ---
@@ -235,7 +235,7 @@ code --install-extension theryx-verilog-0.1.1-alpha.vsix --force
 ## Author & License
 
 - **Extension:** Theryx Verilog
-- **Version:** 0.1.1-alpha
+- **Version:** 0.1.2-alpha
 - **Author:** Luigi C. Filho
 - **Organization:** LC Desenvolvimentos
 - **License:** Distributed under the [MIT](LICENSE) license.
